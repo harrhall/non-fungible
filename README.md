@@ -12,7 +12,7 @@ Master of Information, Big Data Analytics.
 SI 699 - MSI Mastery Course.
 
 **Project timeframe**: September 2021 - April 2022.
----
+
 
 ## Table of Contents:
 - **README.md** - This lovely document, which you're reading now :)
